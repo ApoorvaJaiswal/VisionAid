@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VisionAid</string>
+    <string name="text">(Here we will let users add their own gestures)</string>
+    <string name="text2">Make a gesture and click OK</string>
+</resources>
